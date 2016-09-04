@@ -1,0 +1,9 @@
+FIAT    600     65      115     450
+TOYOTA  TERCEL  82      180     750
+CHEVY   IMPALA  65      85      1550
+PLYM    FURY    77      73      2500
+CHEVY   NOVA    79      60      3000
+CHEVY   NOVA    80      50      3500
+HONDA   ACCORD  81      30      6000
+FORD    BRONCO  83      25      9525
+VOLVO   GL      78      102     9850
